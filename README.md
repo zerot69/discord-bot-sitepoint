@@ -2,8 +2,9 @@
 
 Michiel Mulders shows you how to install and set up a new Discord bot, which is made easier thanks to the API offered by the Discord.js package.
 
-Link to article on SitePoint: [https://www.sitepoint.com/discord-bot-node-js/](link).
-Another article: [https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/](link).
+Link to article on SitePoint: [link](https://www.sitepoint.com/discord-bot-node-js/).
+
+Another article: [link](https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/).
 
 ## Requirements
 
